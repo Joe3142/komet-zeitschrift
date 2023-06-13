@@ -51,7 +51,7 @@ function zeitschrift(){
   stroke(0);
   rect(560 * d,177 * d,660 * d,450 * d);
   imageMode(CORNER);
-  image(c,570 * d,187 * d,300 * d,426 * d);
+  //image(c,570 * d,187 * d,300 * d,426 * d);
   textSize(14 * d);
   fill(0);
   noStroke();
@@ -78,7 +78,7 @@ function advertisement(){
   stroke(0);
   rect(0,400 * d,300 * d,500 * d);
   imageMode(CORNER);
-  image(a,20 * d,420 * d,220 * d,312 * d);
+  //image(a,20 * d,420 * d,220 * d,312 * d);
   textSize(50 * d);
   fill(255,100,0);
   text("Jetzt", 40 * d,790 * d);
